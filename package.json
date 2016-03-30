@@ -1,5 +1,5 @@
 {
-  "name": "hjs-webpack",
+  "name": "hjs-webpack-lodash",
   "description": "Presets for setting up webpack with hotloading react and ES6(2015) using Babel.",
   "version": "8.1.0",
   "author": "Henrik Joreteg <henrik@andyet.net>",
@@ -15,9 +15,7 @@
     "extract-text-webpack-plugin": "^1.0.1",
     "find-root": "^1.0.0",
     "http-proxy-middleware": "^0.13.0",
-    "lodash.assign": "^4.0.6",
-    "lodash.defaults": "^4.0.1",
-    "lodash.pick": "^4.1.0",
+    "lodash": "^3.9.1",
     "rimraf": "^2.5.2",
     "webpack": "^1.12.14",
     "webpack-dev-middleware": "^1.5.1",

@@ -4,6 +4,9 @@
 
 > Warning: If you are upgrading across major versions, please read the [release notes in the changelog](./CHANGELOG.md).
 
+> Warning: this fork un-decouples lodash and was created for a very specific purpose. You almost
+certainly don't need it.
+
 I really dislike setting up build scripts. Most of the time I want to do the exact same thing:
 
 While developing:

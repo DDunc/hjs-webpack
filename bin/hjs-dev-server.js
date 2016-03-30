@@ -5,9 +5,10 @@
 
 var fs = require('fs')
 var path = require('path')
+var _ = require('lodash')
 var express = require('express')
 var webpack = require('webpack')
-var assign = require('lodash.assign')
+var assign = _.assign
 var httpProxyMiddleware = require('http-proxy-middleware')
 
 var configFile = process.argv[2] || 'webpack.config.js'
