@@ -15,7 +15,7 @@
     "extract-text-webpack-plugin": "^1.0.1",
     "find-root": "^1.0.0",
     "http-proxy-middleware": "^0.13.0",
-    "lodash": "^3.9.1",
+    "lodash": "^4.6.1",
     "rimraf": "^2.5.2",
     "webpack": "^1.12.14",
     "webpack-dev-middleware": "^1.5.1",
